@@ -1,0 +1,3 @@
+# Dio Travel Agente IA
+
+Este agente atua como um assistente virtual inteligente especializado em viagens internacionais, com foco na verificação de vistos e orientações básicas para brasileiros viajando ao exterior.

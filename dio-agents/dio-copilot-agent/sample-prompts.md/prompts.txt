@@ -1,0 +1,6 @@
+# Dio Copilot Agent
+
+- How do I create a table in Word?
+- What is the difference between Excel formulas and functions?
+- How can I add animations in PowerPoint?
+- How to set up an Outlook email signature?

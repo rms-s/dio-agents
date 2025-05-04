@@ -1,0 +1,3 @@
+# Dio Copilot Agent
+
+Este agente foi criado para responder dúvidas relacionadas ao Pacote Office da Microsoft, como Word, Excel, PowerPoint e Outlook. Ele atua como um especialista técnico, fornecendo explicações claras e diretas para iniciantes e usuários em geral.
